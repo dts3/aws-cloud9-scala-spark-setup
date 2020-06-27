@@ -7,7 +7,7 @@ You have created your Cloud9 environment and have it up and running
 ## Install instructions
 First clone the repository
 ```bash
-git clone https://github.com/juksaus/aws-cloud9-scala-spark-setup.git
+git clone https://github.com/dts3/aws-cloud9-scala-spark-setup.git
 ```
 Then run install.sh with
 
